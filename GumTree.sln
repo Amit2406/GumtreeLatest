@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GumTree", "GumTree.csproj", "{199408BD-E80E-490C-8D97-50D3AF28C83C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AddPost", "..\AddPost\AddPost.vdproj", "{C4861347-789F-4C7D-B361-711793AF9E7C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PostAdd", "..\PostAdd\PostAdd.vdproj", "{F6DC3681-5F82-4E52-95A5-B9AEA03E7007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199408BD-E80E-490C-8D97-50D3AF28C83C}.Debug|x86.ActiveCfg = Debug|x86
+		{199408BD-E80E-490C-8D97-50D3AF28C83C}.Debug|x86.Build.0 = Debug|x86
+		{199408BD-E80E-490C-8D97-50D3AF28C83C}.Release|x86.ActiveCfg = Release|x86
+		{199408BD-E80E-490C-8D97-50D3AF28C83C}.Release|x86.Build.0 = Release|x86
+		{C4861347-789F-4C7D-B361-711793AF9E7C}.Debug|x86.ActiveCfg = Debug
+		{C4861347-789F-4C7D-B361-711793AF9E7C}.Release|x86.ActiveCfg = Release
+		{F6DC3681-5F82-4E52-95A5-B9AEA03E7007}.Debug|x86.ActiveCfg = Debug
+		{F6DC3681-5F82-4E52-95A5-B9AEA03E7007}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
